@@ -5,4 +5,7 @@ I mostly followed the documentation off of their chapter on creating graphics as
 
 Using their guides and my existing knowledge of python, I was able to convert the gb file to the png. I have not added any other features besides a feature shown on the example.
 
-In my trial and error, I first tried using cgview but one of its required libraries was no longer compatible with the latest version of perl and so I abandoned it.
+In my trial and error, I first tried using cgview but one of its required libraries was no longer compatible with the latest version of perl and so I abandoned it. 
+I spent hours searching up how to use perl and then gave up once it became clear that I couldn't get the library to install.
+However, I searched up alternate ways of mapping genome data and I found that python was not only more familiar to me but also more accessible and more versatile.
+After several more googling attempts, I was able to acquire the documentation for BioPython and after some more digging, found their chapter on creating graphics.
