@@ -1,0 +1,8 @@
+So I created the png using python off of Biopython, a module that parses, processes, and maps genome data off of Genbank
+
+I mostly followed the documentation off of their chapter on creating graphics as linked below:
+  https://biopython-cn.readthedocs.io/zh_CN/latest/en/chr17.html
+
+Using their guides and my existing knowledge of python, I was able to convert the gb file to the png. I have not added any other features besides a feature shown on the example.
+
+In my trial and error, I first tried using cgview but one of its required libraries was no longer compatible with the latest version of perl and so I abandoned it.
